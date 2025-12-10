@@ -60,7 +60,7 @@ The deep learning model is built using a **Convolutional Neural Network (CNN)** 
 
 ### System Architecture Diagram
 
-assets/System Architecture Diagram.png
+[assets/System Architecture Diagram.png](https://github.com/se-iram/plant-disease-prediction-cnn/blob/main/assets/System%20Architecture%20Diagram.png)
 ---
 
 ## Methodology Overview
