@@ -1,6 +1,6 @@
 # Plant Disease Prediction Using CNN and Deep Learning
 
-> **Semester Project — Artificial Intelligence / Machine Learning**  
+> **Semester Project - Machine Learning**  
 > **Developed by:** Iram Hameed (221994), Eman Fatima (222007)
 
 This project presents a complete **Plant Disease Prediction System** built using **Convolutional Neural Networks (CNN)** and **Deep Learning**. The system is designed to automatically identify plant diseases from leaf images and provide real-time predictions through a user-friendly **Streamlit web application**.
@@ -28,7 +28,7 @@ Plant diseases are a major threat to agricultural productivity worldwide. Tradit
 ## Dataset
 
 The project uses the **PlantVillage Dataset** available on Kaggle.
-
+Kaggle Dataset Link: https://www.kaggle.com/datasets/emmarex/plantdisease
 **Key Dataset Details:**
 - Total Images: ~54,000
 - Number of Classes: 38
@@ -43,8 +43,7 @@ The project uses the **PlantVillage Dataset** available on Kaggle.
 **Preprocessing Includes:**
 - Image resizing to 224 × 224 pixels
 - Normalization (pixel values scaled to [0–1])
-- Data augmentation (rotation, zoom, flips, shifts)
-
+- Data augmentation (rotation, zoom, flips, shifts) OpenCV
 ---
 
 ## Model Architecture
@@ -113,4 +112,4 @@ The model is evaluated using:
   
 ---
 
-## Project Type: Semester Final Project
+### Project Type: Semester Final Project
