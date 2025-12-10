@@ -58,10 +58,9 @@ The deep learning model is built using a **Convolutional Neural Network (CNN)** 
 - Fully connected dense layers
 - Softmax output layer for multi-class classification (38 classes)
 
-### Architecture Diagram Placeholder
+### System Architecture Diagram
 
-> **[Insert System Architecture Diagram Here]**  
-> *(Data Pipeline → CNN Layers → Output Prediction Flow)*
+https://github.com/se-iram/plant-disease-prediction-cnn/issues/1#issue-3713676287
 
 ---
 
