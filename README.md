@@ -2,7 +2,6 @@
 
 > **Semester Project - Machine Learning**  
 > **Developed by:** Iram Hameed (221994), Eman Fatima (222007)
-
 > **Submitted To:** Prof. Khurram Zeeshan Haider
 
 This project presents a complete **Plant Disease Prediction System** built using **Convolutional Neural Networks (CNN)** and **Deep Learning**. The system is designed to automatically identify plant diseases from leaf images and provide real-time predictions through a user-friendly **Streamlit web application**.
