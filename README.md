@@ -74,10 +74,9 @@ This project follows a structured and theoretical deep learning pipeline:
 5. Model generalization and robustness testing
 6. Integration of the trained model into a real-time web system
 
-### Training Flow Diagram Placeholder
+### Workflow Diagram
 
-> **[Insert Model Training Flowchart Here]**  
-> *(Data Augmentation → Training → Validation → Evaluation)*
+[workflow](./assets/workflow.png)
 
 ---
 
